@@ -552,6 +552,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[xctools](https://github.com/nzrsky/xctools-mcp-server)** - 🍎 MCP server for Xcode's xctrace, xcrun, xcodebuild.
 - **[YouTube](https://github.com/anaisbetts/mcp-youtube)** - Fetch YouTube subtitles
 - **[Yuga Planner](https://github.com/blackopsrepl/yuga-planner)** - AI Task schedule planning with LLamaIndex and Timefold: breaks down a task description and schedules it around an existing calendar
+- **[yfinance-ta-patterns](https://github.com/eminsk/yfinance-ta-patterns)** - Zero-lookahead Technical Analysis scanner with quantitative confluence scoring & native MCP server for AI trading agents (Claude Desktop, Cursor).
 
 ## Clients
 
